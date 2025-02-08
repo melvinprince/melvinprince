@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi, I'm Melvin Prince!
 
-<!--
-**melvinprince/melvinprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Web & Blockchain Developer** passionate about building scalable, high-performance applications. I specialize in **React, Node.js, Express, PostgreSQL, and Next.js**. Currently, I'm exploring **innovative website ideas** and working on **a portfolio generator project**. 💡
 
-Here are some ideas to get you started:
+### 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React.js, Next.js, HTML, CSS, Sass, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: PostgreSQL, MongoDB
+- **Blockchain**: Solidity, Web3.js, Ether.js
+- **Other**: Git, Docker, CI/CD, AWS
+
+### 📊 GitHub Stats
+
+![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinprince&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melvinprince&theme=radical)
+
+### 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=melvinprince&theme=radical)
+
+### 📫 Connect with Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://melvinprince.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvinprince)
+
+
+🚀 _Building cool stuff, one commit at a time!_
