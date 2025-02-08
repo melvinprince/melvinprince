@@ -28,3 +28,5 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvinprince)
 
 🚀 _Building cool stuff, one commit at a time!_
+
+![](https://komarev.com/ghpvc/?username=melvinprince&color=blue)
