@@ -31,6 +31,6 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 
 <!-- ![](https://komarev.com/ghpvc/?username=melvinprince&color=blue)   Profile Views -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melvinprince)](https://github.com/melvinprince/github-readme-activity-graph)
+[![Melvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melvinprince)](https://github.com/melvinprince/github-readme-activity-graph)
 
-![Metrics](https://metrics.lecoq.io/melvinprince)
+<!-- ![Metrics](https://metrics.lecoq.io/melvinprince) -->
