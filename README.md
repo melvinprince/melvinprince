@@ -14,7 +14,7 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 
 ![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinprince&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&layout=compact&hide=c,c%2B%2B&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melvinprince&theme=radical)
 
@@ -24,8 +24,7 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 
 ### 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://melvinprince.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://melvinprince.op)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvinprince)
-
 
 🚀 _Building cool stuff, one commit at a time!_
