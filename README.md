@@ -29,4 +29,6 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 
 🚀 _Building cool stuff, one commit at a time!_
 
-![](https://komarev.com/ghpvc/?username=melvinprince&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=melvinprince&color=blue)   Profile Views -->
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mmelvinprince)](https://github.com/Mmelvinprince/github-readme-activity-graph)
