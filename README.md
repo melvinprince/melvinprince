@@ -6,7 +6,7 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 
 - **Frontend**: React.js, Next.js, HTML, CSS, Sass, JavaScript
 - **Backend**: Node.js, Express.js
-- **Database**: PostgreSQL, MongoDB,Prisma
+- **Database**: PostgreSQL, MongoDB, Prisma
 - **Blockchain**: Solidity, Web3.js, Ether.js
 - **Other**: Git, Docker, CI/CD, AWS
 
