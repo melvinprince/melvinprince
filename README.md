@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Melvin Prince!
 
-I'm a **Full Stack Web & Blockchain Developer** passionate about building scalable, high-performance applications. I specialize in **React, Node.js, Express, PostgreSQL, and Next.js**. Currently, I'm exploring **innovative website ideas** and working on **a portfolio generator project**. 💡
+I'm a **Full Stack Web & Blockchain Developer** passionate about building scalable, high-performance applications. I specialize in **React, Node.js, Express, PostgreSQL, and Next.js**. Currently, I'm exploring **innovative website ideas** and working on **a portfolio generator project**.
 
 ### 🚀 Technologies & Tools
 
