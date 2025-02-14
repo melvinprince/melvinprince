@@ -2,6 +2,9 @@
 
 I'm a **Full Stack Web & Blockchain Developer** passionate about building scalable, high-performance applications. I specialize in **React, Node.js, Express, PostgreSQL, and Next.js**. Currently, I'm exploring **innovative website ideas** and working on **a portfolio generator project**.
 
+**Why FullStack?**
+The process wherein I sit behind my screen trying to think of a logic to make something work or the decisions I have taken to craft an experience that hits each user differently, an experience that leaves an impression of worth and quality is what made me fall in love with Fullstack Development. To leave an impression like that something worth remembering, worth coming back to you’d need a perfect blend of both frontend and backend. Being able to understand and make the subtle changes to make this happen is what I am truly good at. After giving life to designs, being able to experience them first hand is all the appreciation I need in the world
+
 ### 🚀 Technologies & Tools
 
 - **Frontend**: React.js, Next.js, HTML, CSS, Sass, JavaScript
