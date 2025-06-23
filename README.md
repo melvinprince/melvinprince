@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Melvin Prince!
+ ## 👋 Hi, I'm Melvin Prince!
 
 I'm a **Full Stack Web & Blockchain Developer** passionate about building scalable, high-performance applications. I specialize in **React, Node.js, Express, PostgreSQL, and Next.js**. Currently, I'm exploring **innovative website ideas** and working on **a portfolio generator project**.
 
@@ -18,7 +18,7 @@ The process wherein I sit behind my screen trying to think of a logic to make so
 
 ![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinprince&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&langs_count=10&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melvinprince&theme=radical)
 
