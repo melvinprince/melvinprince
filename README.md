@@ -19,7 +19,7 @@ I'm a **Full Stack Web & Blockchain Developer** passionate about building scalab
 
 ![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinprince&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&langs_count=14&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&langs_count=12&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melvinprince&theme=radical)
 
