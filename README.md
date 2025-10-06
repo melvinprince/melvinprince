@@ -1,37 +1,62 @@
-## 👋 Hi, I'm Melvin Prince!
+## Melvin Prince
 
-I'm a **Full Stack Web & Blockchain Developer** passionate about building scalable, high-performance applications. I specialize in **React, Node.js, Express, PostgreSQL, and Next.js**. Currently, I'm exploring **innovative website ideas** and working on **a portfolio generator project**.
+**Full Stack Web & Blockchain Developer**  
+📍 Based in Qatar | 📧 hello@melvinprince.io | 🌐 [melvinprince.io](https://melvinprince.io) | [LinkedIn](https://linkedin.com/in/melvinprince)
 
-### 🚀 Technologies & Tools
+I design and build scalable, high-performance web applications using modern frameworks and clean architecture principles.  
+My work focuses on creating systems that balance performance, usability, and maintainability.  
+I also explore the intersection of web technology and AI—integrating LLM-based systems into production environments.
 
-- **Languages:** HTML, CSS (Sass, Tailwind, Styled Components), JavaScript, Python, TypeScript  
-- **Frontend Frameworks & Libraries:** React.js, Next.js, EJS, jQuery  
-- **Backend & Server-Side:** Node.js, Express.js  
-- **Databases & Query Languages:** PostgreSQL, MongoDB, Supabase, GraphQL, Prisma (ORM)  
-- **Blockchain & Web3:** Solidity, Web3.js, Ether.js, Motoko, Smart Contracts, DApps  
-- **Conversational AI & LLM Integration:** Embedding LLM chatbots into applications  
-- **Tools & DevOps:** Git, GitHub, CI/CD Pipelines & Workflows, REST APIs, Docker, AWS (EC2), Google Cloud Platform, Vercel, Netlify, cPanel Hosting, Domain & Subdomain Management, Migrations  
-- **Digital Marketing & Communication:** Email Marketing (MailChimp), WhatsApp API, Twilio, Google Ads, Snapchat Ads, Meta Ads  
-- **SEO & Optimization:** On-page & Off-page SEO, Keyword Strategy, Ranking Improvement  
-- **Testing:** Jest, Supertest  
+---
 
-### 📊 GitHub Stats
+### ⚙️ Technical Expertise
 
-![Melvin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinprince&show_icons=true&theme=radical)
+**Languages:** JavaScript, TypeScript, Python, C#, HTML, CSS (Sass, Tailwind, Styled Components)  
+**Frontend:** React, Next.js, Angular, EJS, jQuery  
+**Backend:** Node.js, Express, ASP .NET  
+**Databases:** PostgreSQL, MySQL, MongoDB, Supabase, Prisma ORM, GraphQL  
+**Blockchain & Web3:** Solidity, Motoko, Smart Contracts, DApps, Web3.js, Ethers.js  
+**DevOps & Tools:** Git, CI/CD Pipelines, Docker, AWS (EC2), GCP, Vercel, Netlify, cPanel  
+**LLM Integration:** Embedding and deploying conversational AI within web apps  
+**Testing:** Jest, Supertest  
+**SEO & Digital Marketing:** Technical SEO, Keyword Strategy, Email and Ad Campaign Automation  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&langs_count=12&layout=compact&theme=radical)
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=melvinprince&theme=radical)
+### 💼 Professional Experience
 
-### 🏆 GitHub Trophies
+**Software Engineer – Flora Group**  
+*June 2025 – Present*  
+Modernizing and maintaining kiosk and queue management systems for enterprise and government clients.  
+- Migrating legacy AngularJS applications to modern frameworks.  
+- Integrating multiple database systems and optimizing data pipelines.  
+- Building cross-version compatible interfaces for public kiosk devices.
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=melvinprince&theme=radical)
+**Full Stack Developer – Royal Orbit Innovations**  
+*March 2025 – June 2025*  
+Developed and deployed full-stack e-commerce and marketing platforms.  
+- Implemented Next.js applications with secure payments and custom CMS dashboards.  
+- Improved SEO for multiple brands, achieving top-five Google rankings within a week.  
+- Automated ad campaigns and marketing workflows across Google and Meta platforms.
 
-### 📫 Connect with Me
+**Full Stack Developer / Founder – Stance Services**  
+*May 2021 – February 2023*  
+Founded and led a digital agency delivering responsive web solutions for 35 projects.  
+- Increased client retention by 56% through UI/UX improvements and technical scalability.  
+- Built efficient pipelines reducing delivery time by 25%.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://melvinprince.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melvinprince)
+---
 
-🚀 _Building cool stuff, one commit at a time!_
+### 🎓 Education & Certifications
 
-[![Melvin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melvinprince)](https://github.com/melvinprince/github-readme-activity-graph)
+**B.Tech in Software Engineering** – Jain University, Bangalore (2020 – 2024)  
+**Certifications:** Advanced React and Next.js • Full Stack Web Developer Bootcamp • Creative Coding • Ultimate SEO Training 2025  
+
+---
+
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melvinprince&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melvinprince&layout=compact&theme=default)
+
+---
