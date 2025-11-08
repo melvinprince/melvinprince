@@ -63,4 +63,4 @@ Founded and led a digital agency delivering responsive web solutions for 35 proj
 
 ### GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=melvinprince&theme=flat&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=melvinprince&theme=flat&no-frame=true&margin-w=08)
